@@ -45,5 +45,5 @@ godina_raganje = kuche.presmetaj_godina_na_raganje()
 print (godina_raganje)
 
 kuche1 = Dog("Beti","Schnauzer","zenski",5,"bela")
-##print(type(kuche))
+print(type(kuche))
 print(kuche1.pol)
